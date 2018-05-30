@@ -1,0 +1,77 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+
+
+
+
+
+
+
+#ext_menu-15 .navbar-toggler {
+  color: #bebebe;
+}
+#ext_menu-15 .navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 30px;
+}
+#ext_menu-15 .nav-link {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 20px;
+}
+#slider-4 H2 {
+  font-family: 'Ubuntu', sans-serif;
+  color: #ffffff;
+  font-size: 46px;
+  text-align: center;
+}
+#slider-4 P {
+  color: #f1c050;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+}
+#slider-4 I {
+  color: #f1c050;
+}
+#header2-2 H1 {
+  text-align: left;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 30px;
+}
+#header2-2 P {
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+}
+#header2-2 B {
+  font-size: 25px;
+}
+#header2-2 I {
+  color: #5bc0de;
+}
+#contacts3-a P {
+  color: #d8d4d1;
+  text-align: center;
+}
+#contacts1-3 B {
+  font-family: 'Ubuntu', sans-serif;
+}
+#contacts1-3 DIV {
+  text-align: center;
+}
+
+
+#menu-e .navbar-toggler {
+  color: #e6e0dc;
+}
+#menu-e .navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 36px;
+}
+#contacts3-c P {
+  color: #d8d4d1;
+  text-align: center;
+}
+#contacts1-d B {
+  font-family: 'Ubuntu', sans-serif;
+}
+#contacts1-d DIV {
+  text-align: center;
+}
